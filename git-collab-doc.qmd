@@ -9,3 +9,9 @@ editor: visual
 # Makin' changes to this collaboration!!
 
 I'll make some more super cool changes
+
+*This is some text in italics that is really cool!*
+
+Also a picture of action Thistle
+
+![](images/Thistle.jpg)
